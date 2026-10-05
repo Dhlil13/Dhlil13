@@ -22,7 +22,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&black
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&black>
 
 
 ## 📈 Statistiques GitHub
