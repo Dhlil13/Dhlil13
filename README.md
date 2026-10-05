@@ -26,31 +26,36 @@
 
 ### 📊 Data Analytics & BI
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=osoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-4B53BC?style=for-thet&logoColor=white
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor## 🗄️ Data Engineering
+## 🧰 Langages & Technologies
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=mver&logoColor=white
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColorOneLake](https://img.shields.io/badge/OneLake-4B53BC?style=for-the-badge&logo=microsoft&logoColor=a Warehouse](https://img.shields.io/badge/Data_Warehouse-003B57?style=for-the-badge)
+### 📊 Data Analytics & BI
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Color=black
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-4B53BC?style=for-the-badge&logo=microsoftxcel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=# 🗄️ Data Engineering
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftColor=white
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logote
+![OneLake](https://img.shields.io/badge/OneLake-4B53BC?style=for-the-badge&logo=microsoft&logoColor=whiteehouse](https://img.shields.iouse-003B57?style=for-the-badge
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColorastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColorreamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logo[Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logogoColor=white
+### 💻 Développement
 
-### 🤖 Data Science & IA
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapiwhite
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&te
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor# 🤖 Data Science & IA
 
-![Scikit-Learn](https://img.shields.io/badge931E?style=for-the-badge&logo=scikitlearn&logoColor=white
-![PyCaret](https://img.shields.io/badge66CC?style=for-the-badge
-![SHAP](https://img.shields.io/badge/SHAP-FF6B35?style=for-the[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor= 🛠️ Outils
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor](https://img.shields.io/badge/PyCaret-e=for-the-badge
+![SHAP](https://img.shields.io/badge/SHAPstyle=for-the-badge
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor# 🛠️ Outils
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=oColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColorS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstgoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logohite
+![GitHub](https://img.shields.io/badge1717?style=for-the-badge&logo=github&logoColor=white
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badgelstudiocode&logoColor=white
 
 
 ## 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhlil13&show_icons=true&
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhlil13&layout=compact&theme---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhlil13&show_icons=true&theme=tokyonightttps://github-readme-stats.vercel.app/api/top-langs/?username=Dhlil13&t&theme=tokyonight
 
 ## 🎯 Objectif
 
