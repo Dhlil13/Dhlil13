@@ -14,7 +14,7 @@
 
 🤖 Intégration de modèles de Machine Learning et d'IA dans les processus industriels.
 
-📐 Développement de solutions d'analyse de capabilité géométrique et de visualisation surfacique 3D.
+📐 Développement de solutions d'analyse de capabilité géométrique et de visualisation surfacique.
 
 🚀 Passionné par l'automatisation, la transformation et l'exploitation de données via des architectures data modernes.
 
